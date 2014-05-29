@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/roshinisachithanandan/Downloads/seba/seba/conf/application.conf,/Users/roshinisachithanandan/Downloads/seba/seba/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/roshinisachithanandan/Downloads/seba/seba/conf/evolutions,/Users/roshinisachithanandan/Downloads/seba/seba/target/scala-2.10/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/roshinisachithanandan/Downloads/seba/seba/conf/META-INF,/Users/roshinisachithanandan/Downloads/seba/seba/target/scala-2.10/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/Users/roshinisachithanandan/Downloads/seba/seba/conf/routes,/Users/roshinisachithanandan/Downloads/seba/seba/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/roshinisachithanandan/Downloads/seba/seba/conf/evolutions/default,/Users/roshinisachithanandan/Downloads/seba/seba/target/scala-2.10/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/roshinisachithanandan/Downloads/seba/seba/conf/evolutions/default/1.sql,/Users/roshinisachithanandan/Downloads/seba/seba/target/scala-2.10/classes/evolutions/default/1.sql)[0m
+[0m[[0mdebug[0m] [0m	(/Users/roshinisachithanandan/Downloads/seba/seba/conf/evolutions/default/2.sql,/Users/roshinisachithanandan/Downloads/seba/seba/target/scala-2.10/classes/evolutions/default/2.sql)[0m
+[0m[[0mdebug[0m] [0m	(/Users/roshinisachithanandan/Downloads/seba/seba/conf/META-INF/persistence.xml,/Users/roshinisachithanandan/Downloads/seba/seba/target/scala-2.10/classes/META-INF/persistence.xml)[0m
